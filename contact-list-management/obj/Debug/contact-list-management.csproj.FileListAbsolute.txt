@@ -1,0 +1,10 @@
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact-list-management.csproj.AssemblyReference.cache
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact_list_management.Properties.Resources.resources
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact-list-management.csproj.GenerateResource.cache
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact-list-management.csproj.CoreCompileInputs.cache
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact_list_management.Form1.resources
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\bin\Debug\contact-list-management.exe.config
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\bin\Debug\contact-list-management.exe
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\bin\Debug\contact-list-management.pdb
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact-list-management.exe
+D:\it-hub\winForms-hw\contact_list_management(14.3)\contact-list-management\obj\Debug\contact-list-management.pdb
